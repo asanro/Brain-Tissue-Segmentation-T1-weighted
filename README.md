@@ -1,1 +1,3 @@
 # Brain-Tissue-Segmentation-T1-weighted
+
+The segmentation of T1-weighted MRI brain images is done using a unique approach that is presented in this research. The MRI scan, the most recent image segmentation methods, and each method’s issues are briefly discussed in the first section. The second section then gives an overview of the dataset, the MRI preprocessing procedures, and the pipeline that was selected for brain segmentation. The third part also includes a display of the outcomes of the suggested methodology. The discussion and conclusion of the results of image segmentation are presented in parts four and five.
